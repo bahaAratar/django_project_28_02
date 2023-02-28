@@ -6,3 +6,4 @@ django-filter
 pillow
 drf-yasg
 djangorestframework-simplejwt
+dj-config-url

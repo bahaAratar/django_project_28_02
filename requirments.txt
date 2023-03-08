@@ -7,3 +7,6 @@ pillow
 drf-yasg
 djangorestframework-simplejwt
 dj-config-url
+django-cors-headers
+redis
+celery
